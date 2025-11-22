@@ -1,5 +1,5 @@
 {
-  "name": "news-card_liberty-times",
+  "name": "news-card-layout",
   "version": "1.0.0",
   "description": "- HTML5 - CSS3 - Bootstrap 5.3",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kurage-14/news-card_Liberty-Times.git"
+    "url": "git+https://github.com/kurage14/news-card-layout.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kurage-14/news-card_Liberty-Times/issues"
+    "url": "https://github.com/kurage14/news-card-layout/issues"
   },
-  "homepage": "https://github.com/Kurage-14/news-card_Liberty-Times#readme",
+  "homepage": "https://github.com/kurage14/news-card-layout#readme",
   "dependencies": {
     "bootstrap": "^5.3.8"
   }
